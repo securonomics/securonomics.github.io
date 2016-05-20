@@ -7,13 +7,14 @@
 
 # Site settings
 title: Robert Lemos
-email: mail@robertlemos.com
+email: mail-at-robertlemos-dot-com
 description: > # this means to ignore newlines until "baseurl:"
   Technology journalist, data researcher and programmer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://securonomics.github.io" # the base hostname & protocol for your site
 twitter_username: roblemos
 github_username:  securonomics
+linkedin_username: roblemos
 
 # Build settings
 markdown: kramdown
