@@ -1,6 +1,0 @@
----
-layout: post
-title:  ""
-date:   2016-05-24 8:10 -04:00
-categories: blogging
----
