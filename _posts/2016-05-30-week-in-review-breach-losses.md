@@ -12,7 +12,7 @@ The Anti-Phishing Working Group [released its quarterly report this week](http:/
 I also took a look a breach data this week. The data does seem to suggest that, while companies are increasingly punished for big breaches, their losses -- along with moderate customer churn - appear to have a small impact on the companies in the medium and long term. 
 
 > Sure they feel the pain, and some stock prices have gone down, but no one has really felt a lot of pain.
-- *Lillian Ablon, cyber-security and emerging technologies analyst at RAND*
+> &mdash; Lillian Ablon, cyber-security and emerging technologies analyst at RAND
 
 This is not necessarily a new finding, but as more breaches cause havoc at firms, seeing whether the trend holds will be interesting.
 

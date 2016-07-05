@@ -20,3 +20,8 @@ While the specific ruling applies to a limited subset of information &mdash; the
 In a similar way, ransomware criminals may be starting their own race to the bottom. They are acting out the Tragedy of the Commons, a parable of individuals making the best short-term decision for themselves, but which has long-term poor consequences for the group. In a statement to local press, Kansas Heart Hospital, a ransomware victim, claimed it had paid a ransom for its data and the criminals asked for more money before turning over the keys to the rest of the hospital's systems.
 
 Such double-dipping, if it continues, will [erode the trust](http://www.pcworld.com/article/3083772/security/how-greed-could-destroy-the-ransomware-racket.html) that victims have placed in ransomware operators to date, which could spell the beginning of the end for the scam.
+
+- "Home Computers Connected to the Internet Aren't Private, Court Rules," [*eWEEK*](http://www.eweek.com/security/home-computers-connected-to-the-internet-arent-private-court-rules.html)
+- "How greed could destroy the ransomware racket," [*PCWorld*](http://www.pcworld.com/article/3083772/security/how-greed-could-destroy-the-ransomware-racket.html)
+
+*Week (Month) in Review is where I highlight articles that I've written and that have been published in the last week.*
